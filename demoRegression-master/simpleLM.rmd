@@ -71,3 +71,6 @@ summary.lm(simp)
 ```
 
 The residual standard error (4.235) and adjusted r-squared value (.8434) relating LENGTH and HEADLEN better describes/predicts bear length compared to the scatter-plot illustrating the relationship between LENGTH and NECK, since the latter's residual standard error is lower, and adjusted r-squared value is higher.  
+
+## Conclusion
+In this introduction to scatter-plot and analysis, we were able to investigate the relationship among multivariate data, to determine the relative association between certain variables.  The primary method for comparison involved checking the residual standard error and adjusted r-value metrics.  Because the scatter-plot depicting the relation between the LENGTH and HEADLEN variables yielded the lower residual error and highest multiple r-squared values, it is reasonable to assume that the association between general bear length and bear head length is strongest.
